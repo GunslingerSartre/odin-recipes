@@ -7,7 +7,20 @@
 
 
 body{
+    background-color: rgb(202, 202, 202);
     font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+
+img{
+    width: 30vw; min-width:400px;
+}
+
+
+#header-image{
+    text-align: center;
     
 }
 
