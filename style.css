@@ -1,3 +1,17 @@
+.container {
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    border: 20px;
+}
+
+.container > div {
+    border: 4px solid rgb(61, 100, 145);
+    padding: 10px;
+    text-align: center;
+
+}
 
 h1 {
     text-align: center;
